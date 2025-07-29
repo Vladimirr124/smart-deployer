@@ -13,8 +13,6 @@ Smart Deployer is a universal solution for organizing and managing paid smart co
 
 ![Smart deployer diagram](./docs/smart-deployer.png) 
 
-> 💡 We are building it as part of the [Solidity University Bootcamp](https://bootcamp.solidity.university) program. Learn Solidity with us at [Solidity University](https://solidity.university)!
-
 
 ---
 
