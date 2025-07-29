@@ -3,7 +3,6 @@
 Smart Deployer is a universal solution for organizing and managing paid smart contract deployments.
 
 📚 [Contracts documentation](https://solidityuniversity.github.io/smart-deployer/book/)  
-🎓 [Solidity Bootcamp](https://bootcamp.solidity.university)
 
 🧾 Every contract in this repository is fully documented using NatSpec — including deployment instructions, configuration details, and extensibility tips. Developed by Solidity University, following best practices and released under the MIT license, allows developers to:
 
